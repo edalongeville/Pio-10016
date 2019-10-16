@@ -1,0 +1,7 @@
+Failling scenario:
+Simply run the build.
+
+Working scenario:
+In lib/EEPROMManager/EEPROMManager.h, use the full path instead of <EEPROM.h>
+
+See https://community.platformio.org/t/include-from-header-file-doesnt-work/10016
